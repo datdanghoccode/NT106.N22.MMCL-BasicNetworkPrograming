@@ -1,0 +1,17 @@
+D:\HocC#\UDP Chat\UDP Chat\bin\Debug\net6.0-windows\UDP_Client.exe
+D:\HocC#\UDP Chat\UDP Chat\bin\Debug\net6.0-windows\UDP_Client.deps.json
+D:\HocC#\UDP Chat\UDP Chat\bin\Debug\net6.0-windows\UDP_Client.runtimeconfig.json
+D:\HocC#\UDP Chat\UDP Chat\bin\Debug\net6.0-windows\UDP_Client.dll
+D:\HocC#\UDP Chat\UDP Chat\bin\Debug\net6.0-windows\UDP_Client.pdb
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.csproj.AssemblyReference.cache
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Chat.Client.resources
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.csproj.GenerateResource.cache
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.AssemblyInfoInputs.cache
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.AssemblyInfo.cs
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.csproj.CoreCompileInputs.cache
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.dll
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\refint\UDP_Client.dll
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.pdb
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\UDP_Client.genruntimeconfig.cache
+D:\HocC#\UDP Chat\UDP Chat\obj\Debug\net6.0-windows\ref\UDP_Client.dll
